@@ -5,7 +5,7 @@ three tasks of the "Loops in Java"
 assignment, each of which is developed
 in a separate class with the format
 "Task _[assignment number]_ " (e.g. "Task1" for assignment 1).
-Here are the tasks implemented for each part:
+Here are the subtasks implemented in each task:
 
 ## `Task1`: Using For Loops
 ### 1. Print Numbers
