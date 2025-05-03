@@ -2,7 +2,7 @@ package loopsInJava;
 
 import java.util.Scanner;
 
-public class Task1 {
+public class Part1 {
   public static void main(String[] args) {
     /* 1. Print Numbers */
     System.out.println("Numbers from 1 to 10 printed to the console:");

@@ -2,7 +2,7 @@ package loopsInJava;
 
 import java.util.Scanner;
 
-public class Task2 {
+public class Part2 {
   public static void main(String[] args) {
     /* 1. User Input */
     Scanner sc = new Scanner(System.in);

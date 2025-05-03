@@ -1,13 +1,13 @@
 # Assignment: Loops in Java
 
 The following project contains all
-three tasks of the "Loops in Java"
+three parts of the "Loops in Java"
 assignment, each of which is developed
 in a separate class with the format
-"Task _[assignment number]_ " (e.g. "Task1" for assignment 1).
-Here are the subtasks implemented in each task:
+"Part[ _part number_ ] " (e.g. "Part1" for part 1).
+Here are the tasks implemented in each part:
 
-## `Task1`: Using For Loops
+## `Part1`: Using For Loops
 ### 1. Print Numbers
 * Write a `for` loop that prints the numbers from `1` to `10`.
 ### 2. Calculate Sum
@@ -15,7 +15,7 @@ Here are the subtasks implemented in each task:
 ### 3. Print Multiplication Table
 * Write a `for` loop that prints the multiplication table of a number provided by the user (from 1 to 10).
 
-## `Task2`: Using While Loops
+## `Part2`: Using While Loops
 ### 1. User Input
 * Write a Java program that prompts the user to enter a positive integer.
 * Use a `Scanner` object to read user input.
@@ -29,6 +29,6 @@ Here are the subtasks implemented in each task:
 * Add input validation to ensure the user enters a positive integer.
 * Allow the user to enter multiple numbers and calculate the sum of the digits for each one until they choose to exit.
 
-## `Task3`: Using Do-While Loops
+## `Part3`: Using Do-While Loops
 ### 1. Menu-Driven Calculator
 * Write a menu-driven program using a do-while loop that repeatedly displays a menu with options to add, subtract, multiply, and divide two numbers. The user should be able to choose an option, perform the operation, and see the result. The program should exit only when the user chooses an exit option.
